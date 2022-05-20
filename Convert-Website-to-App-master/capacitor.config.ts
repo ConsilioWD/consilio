@@ -1,8 +1,8 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'com.jamesonsaunders.convertwebsitetoapp',
-  appName: 'Website to App',
+  appId: 'az.oc.oilisnoc',
+  appName: 'Consilio',
   webDir: 'www',
   bundledWebRuntime: false,
 };
